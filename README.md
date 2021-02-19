@@ -1,5 +1,8 @@
 # tasks-demo
 
+## Technical task
+See [required for this project](https://docs.google.com/document/d/1_sgpmHFyeMFabEVRk7E7WOvmFZ72EEJm3hmiZ0RNPN0/edit?usp=sharing).
+
 ## Project setup
 ```
 npm install
