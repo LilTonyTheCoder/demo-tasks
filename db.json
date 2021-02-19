@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "tasks": [
+    {
+      "title": "task 1",
+      "description": "descr",
+      "status": 2,
+      "created_date": "2021-02-18T23:58:37.738Z",
+      "id": 1
+    },
+    {
+      "title": "Task 2",
+      "description": "descr 2",
+      "status": 1,
+      "created_date": "2021-02-18T23:58:45.256Z",
+      "id": 2
+    },
+    {
+      "title": "super mega task ",
+      "description": "yo yo yo",
+      "status": 2,
+      "created_date": "2021-02-18T23:58:55.879Z",
+      "id": 3
+    },
+    {
+      "title": "happy task",
+      "description": "this is the end",
+      "status": 1,
+      "created_date": "2021-02-19T00:00:39.466Z",
+      "id": 4
+    }
+  ]
+}
